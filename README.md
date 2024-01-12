@@ -20,7 +20,6 @@ Feel free to reach out for collaborations or just a chat about technology and da
 
 - Email: [hasanmustafabayli8@gmail.com](mailto:hasanmustafabayli8@gmail.com)
 - LinkedIn: [Hasan Mustafabayli](https://www.linkedin.com/in/hasan-mustafabayli-32320918a/)
-- GitHub: [Your GitHub](https://github.com/your-github)
 
 ---
 
